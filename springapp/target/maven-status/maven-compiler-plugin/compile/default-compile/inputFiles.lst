@@ -1,8 +1,0 @@
-/home/coder/project/workspace/CakeCraft/springapp/src/main/java/com/examly/springapp/exception/CakeException.java
-/home/coder/project/workspace/CakeCraft/springapp/src/main/java/com/examly/springapp/controller/CakeController.java
-/home/coder/project/workspace/CakeCraft/springapp/src/main/java/com/examly/springapp/SpringappApplication.java
-/home/coder/project/workspace/CakeCraft/springapp/src/main/java/com/examly/springapp/repository/CakeRepository.java
-/home/coder/project/workspace/CakeCraft/springapp/src/main/java/com/examly/springapp/configuration/CorsConfig.java
-/home/coder/project/workspace/CakeCraft/springapp/src/main/java/com/examly/springapp/model/Cake.java
-/home/coder/project/workspace/CakeCraft/springapp/src/main/java/com/examly/springapp/configuration/SwaggerConfig.java
-/home/coder/project/workspace/CakeCraft/springapp/src/main/java/com/examly/springapp/service/CakeService.java
